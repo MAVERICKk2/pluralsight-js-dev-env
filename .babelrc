@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 // Babel transpiling is something similar to the compiler, but a transpiler converts code to something at the same level of code
-=======
->>>>>>> 146a97c7378a6e4b9a0ad066e81456f82153b25e
 {
     "presets": [
         "latest"

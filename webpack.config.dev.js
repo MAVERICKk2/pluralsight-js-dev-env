@@ -20,8 +20,4 @@ export default {
       {test: /\.css$/, loaders: ['style','css']}
     ]
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 146a97c7378a6e4b9a0ad066e81456f82153b25e
