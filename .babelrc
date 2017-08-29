@@ -1,3 +1,4 @@
+// Babel transpiling is something similar to the compiler, but a transpiler converts code to something at the same level of code
 {
     "presets": [
         "latest"
