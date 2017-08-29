@@ -2,9 +2,15 @@
 root = true
 
 [*]
+<<<<<<< HEAD
 charset = utf-8
 ident_style = tab
 end_of_line = lf
+=======
+ident_style = tab
+end_of_line = lf
+charset = utf-8
+>>>>>>> 146a97c7378a6e4b9a0ad066e81456f82153b25e
 trim_trailing_whitespace = true
 insert_final_newline = true
 
